@@ -14,7 +14,7 @@ dei um monte de <s>enter</s>
 <p>Paragrafo de teste</p>
 <p>Paragrafo de teste2</p>
 <p>Paragrafo de teste3</p>
-<p>Paragrafo de teste4 com quebra de linha dentro<br>quebrou... legalll<br>quebrouuuu legallllll<br><i>quebrou com italico</i><br><b>quebrou com negrito</b><br><u>quebrou com sublinhado</u></p>
+<p>Paragrafo de teste4 com quebra de linha dentro<br>quebrou... legalll<br>quebrouuuu legallllll<br><i>quebrou com italico</i><br><b>quebrou com negrito</b><br><s>quebrou com sublinhado</s></p>
 
 </pre>
 
