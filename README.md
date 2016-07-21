@@ -1,5 +1,5 @@
-<img src="TaskDigger.jpg">
-<br><span style="font-size: xx-small"> Logotipo </span>
+<img src="Logo.jpg">
+<br><span style="font-size: xx-small"> Logo </span>
 <h1>Titulo: TaskDigger.com</h1>
 <pre>Propósito: Dar projeção aos micro-serviços.
 Incubado no Núcleo de Cultura Empreendedora da PUC-SP
