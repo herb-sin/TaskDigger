@@ -1,9 +1,7 @@
 <h1>Titulo: TaskDigger.com</h1>
-<pre>exemplos de codigos x<br>codigo de gente idiota 1<br>gente idiota 2
-
-
-linha 5 teste (nova alteração)
-
+<pre>exemplos de codigos x
+codigo de gente idiota 1
+gente idiota 2
 
 
 
@@ -24,3 +22,4 @@ dei um monte de <s>enter</s>
 <li>Lista 3</li>
 <li>Lista 4</li>
 </ul>
+
