@@ -1,18 +1,14 @@
 <h1>Titulo: TaskDigger.com</h1>
-<pre>exemplos de codigos x
-codigo de gente idiota 1
-gente idiota 2
-
-
-
-
-
-dei um monte de <s>enter</s>
+<pre>Propósito: Dar projeção aos micro-serviços.
+Incubado no Núcleo de Cultura Empreendedora da PUC-SP
 
 <p>Paragrafo de teste</p>
+
 <p>Paragrafo de teste2</p>
+
 <p>Paragrafo de teste3</p>
-<p>Paragrafo de teste4 com quebra de linha dentro<br>quebrou... legalll<br>quebrouuuu legallllll<br><i>quebrou com italico</i><br><b>quebrou com negrito</b><br><s>quebrou com sublinhado</s></p>
+
+<p>Paragrafo de teste4</p>
 
 </pre>
 
