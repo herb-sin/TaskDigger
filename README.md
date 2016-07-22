@@ -1,17 +1,17 @@
 <img src="Logo.jpg">
 <br><span style="font-size: xx-small"> Logo </span>
-<h1>Titulo: TaskDigger.com</h1>
-<pre>Propósito: Dar projeção aos micro-serviços.
-Incubado no Núcleo de Cultura Empreendedora da PUC-SP
+<h1>Task Digger</h1>
+<pre>Design your gig!
+São Paulo Catholic University Entrepreneurship Nucleus.
 
 
-<p>Paragrafo de teste</p>
+<p>Test paragraph</p>
 
-<p>Paragrafo de teste2</p>
+<p>Test paragraph2</p>
 
-<p>Paragrafo de teste3</p>
+<p>Test paragraph3</p>
 
-<p>Paragrafo de teste4</p>
+<p>Test paragraph4</p>
 
 </pre>
 
