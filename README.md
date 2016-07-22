@@ -1,17 +1,10 @@
 <img src="Logo.jpg">
 <br><span style="font-size: xx-small"> Logo </span>
 <h1>Task Digger</h1>
-<pre>Design your gig!
+<h2>Design your gig!</h2>
 São Paulo Catholic University Entrepreneurship Nucleus.
-
-
-<p>We're grateful to everybody who already helped us in any sense of it...  </p>
-
-<p>Test paragraph2</p>
-
-<p>Test paragraph3</p>
-
-<p>Test paragraph4</p>
+<h3>We're grateful to everybody who already helped us in any sense of it!</h3>
+<p>Test paragraph</p>
 
 </pre>
 
