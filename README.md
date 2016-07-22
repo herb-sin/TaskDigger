@@ -5,7 +5,7 @@
 São Paulo Catholic University Entrepreneurship Nucleus.
 
 
-<p>Test paragraph</p>
+<p>We're grateful to everybody who already helped us in any sense of it...  </p>
 
 <p>Test paragraph2</p>
 
